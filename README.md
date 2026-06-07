@@ -20,13 +20,13 @@ Currently exploring the intersection of AI and software engineering, with a focu
 ## 🛠 Tech Stack
 
 ### Languages
-Go · PHP · C++ · Java · JavaScript · TypeScript · SQL
+Go · PHP · C++ · Java · JavaScript · TypeScript · SQL and more
 
 ### Backend & Infrastructure
-Laravel · Docker · Nginx · Linux · MySQL · MongoDB ·  Redis
+Laravel · Docker · Nginx · Linux · MySQL · MongoDB · Redis and more
 
 ### AI & LLM
-OpenAI · Claude · DeepSeek · LangChain · MCP · AI Agents
+OpenAI · Claude · DeepSeek · LangChain · MCP · AI Agents and more
 
 ---
 

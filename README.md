@@ -1,6 +1,7 @@
 # Hi, I'm Rock 👋
 
 🎓 BSc in Computer Science – China University of Mining and Technology
+
 🎓 MSc in Economics – Renmin University of China
 
 🏅 Senior Software System Architect | National Senior Engineer | Director of Application Software R&D

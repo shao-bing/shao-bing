@@ -1,8 +1,21 @@
 # Hi, I'm Rock 👋
 
-Senior Software Engineer with 17+ years of experience in backend development, system architecture, and large-scale web applications.
+🎓 BSc in Computer Science – China University of Mining and Technology
+🎓 MSc in Economics – Renmin University of China
 
-Currently exploring the intersection of AI and software engineering, with a focus on building practical AI Agents, AI Workflows, and LLM-powered applications.
+🏅 Senior Software System Architect | National Senior Engineer | Director of Application Software R&D
+
+📡 ~20 years in telecom software – cloud communication & live streaming across finance, education, healthcare, real estate
+
+🔧 Deep hands‑on experience in enterprise UC:
+
+IPPBX / Call Center
+
+Cloud video conferencing
+
+B2B live streaming
+
+💡 Multiple personal invention patents in related fields
 
 ---
 
@@ -73,6 +86,7 @@ Topics include:
 
 - Blog: http://happyrock.cloud
 - GitHub: https://github.com/shao-bing
+- CSDN: https://blog.csdn.net/shaobingj126
 
 ---
 

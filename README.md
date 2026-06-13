@@ -88,7 +88,8 @@ Topics include:
 - Blog: http://happyrock.cloud
 - GitHub: https://github.com/shao-bing
 - CSDN: https://blog.csdn.net/shaobingj126
-- WeChat Official Account: <img width="130" height="130" alt="Weixin Image_20260305225111_256" src="https://github.com/user-attachments/assets/b7b80022-5783-4717-998a-50a264d29ec7" />
+- WeChat Official Account:
+  <img width="130" height="130" alt="Weixin Image_20260305225111_256" src="https://github.com/user-attachments/assets/b7b80022-5783-4717-998a-50a264d29ec7" />
 
 
 

@@ -85,6 +85,7 @@ Topics include:
 
 ## 📫 Connect
 
+- Email: info@happyrock.cloud
 - Blog: http://happyrock.cloud
 - GitHub: https://github.com/shao-bing
 - CSDN: https://blog.csdn.net/shaobingj126
